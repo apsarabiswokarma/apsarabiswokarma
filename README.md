@@ -4,7 +4,7 @@
 ## <img src = "https://miro.medium.com/max/1100/0*pYJar6AxR4E6tXuD.gif" width = 50px height = 50px> About me
 
 - 🌱 I’m currently learning Flutter, python,
-- 📫 How to reach me : apsarabk94@gmail.com
+- 📫 How to reach me : social links below:
 
 <!--
 **apsarabiswokarma/apsarabiswokarma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
