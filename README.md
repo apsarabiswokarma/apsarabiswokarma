@@ -16,9 +16,7 @@ Additionally, I'm passionate about artificial intelligence and neural networks. 
  </a> <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://www.oracle.com/a/tech/img/rc10-java-badge-3.png" alt="java" width="50" height="40"/> </a></a><a href="https://www.programiz.com/cpp-programming" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" alt="C++" width="30" height="40"/> </a>
 
 
-## Let's Connect!
 
-If you'd like to discuss any exciting projects or collaborate on something interesting, feel free to reach out to me. You can find me on LinkedIn or via email. I'm always open to new opportunities and ideas.
 - Email: apsarbk94@gmail.com
 
 <h3 align="left">Connect with me:</h3>
