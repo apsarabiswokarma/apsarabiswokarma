@@ -24,7 +24,8 @@ Additionally, I'm passionate about artificial intelligence and neural networks. 
 <a href="https://instagram.com/apsara_bishwakarma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="apsara-bishwokarma-97940b246" height="30" width="40" /></a>
 <a href="https://dribbble.com/apsarabishwokarma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="apsara-bishwokarma-97940b246" height="30" width="40" /></a>
  <a href="https://replit.com/@ApsaraBishwokar" target="blank"><img align="center" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/bzyhgukomno6e79t4men" alt="apsara-bishwokarma-97940b246" height="30" width="40" /></a>
- - Email: apsarbk94@gmail.com
+ 
+Email: apsarbk94@gmail.com
 
  
  Looking forward to connecting with you! 😄
