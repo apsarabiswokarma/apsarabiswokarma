@@ -2,7 +2,7 @@
 ## <img src = "https://miro.medium.com/max/1100/0*pYJar6AxR4E6tXuD.gif" width = 50px height = 50px> I'm Apsara Bishwokarma!
 
  I'm a software engineering student with a passion for building innovative applications and exploring new technologies.
-I enjoy experimenting with different programming languages and frameworks.I'm currently learning React Next js and have completed several projects using Html,Css,Javascript,Dart, Flutter and Python.I'm  also passionate about artificial intelligence and neural networks.
+I enjoy experimenting with different programming languages and frameworks.I'm currently learning React Next js and have completed several projects using Html,Css,Javascript,Dart and Flutter.I'm  also passionate about artificial intelligence and neural networks.
 ## Interests
 Outside of coding, I'm an avid Hiker ,Trekker. I find pleasure and inspiration in the beauty of the natural world. 
 Also I'm passionate about exploring the written world. Books have a special place in my heart as they transport me to different worlds, expand my imagination, and deepen my understanding of the human experience.
