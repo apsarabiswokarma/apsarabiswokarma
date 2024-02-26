@@ -2,7 +2,7 @@
 ## <img src = "https://miro.medium.com/max/1100/0*pYJar6AxR4E6tXuD.gif" width = 50px height = 50px> I'm Apsara Bishwokarma!
 
 Software Engineer with a passion for building innovative applications and exploring new technologies.
-I enjoy experimenting with different programming languages and frameworks.I'm currently learning React Next js and have completed several projects using Html,Css,Javascript,Dart and Flutter.I'm  also passionate about artificial intelligence and neural networks.
+I enjoy experimenting with different programming languages and frameworks.I'm currently learning React Next js and have completed several projects using Html,Css,Javascript,Dart and Flutter.
 ## Interests
 Outside of coding, I'm an avid Hiker ,Trekker. I find pleasure and inspiration in the beauty of the natural world. 
 Also I'm passionate about exploring the written world. Books have a special place in my heart as they transport me to different worlds and expand my imagination.
@@ -18,7 +18,7 @@ Also I'm passionate about exploring the written world. Books have a special plac
 - **Programming Languages**: Dart, Flutter, Python, JavaScript
 - **Web Development**: Next.js, React, HTML, CSS
 - **Mobile App Development**: Flutter, Dart
-
+I'm  also passionate about artificial intelligence and neural networks.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/apsara-bishwokarma-97940b246/ "target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="apsara-bishwokarma-97940b246" height="30" width="40" /></a>
